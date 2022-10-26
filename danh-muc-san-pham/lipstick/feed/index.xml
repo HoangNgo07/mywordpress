@@ -12,94 +12,59 @@
 	<atom:link href="https://hoangngo07.github.io/mywordpress/danh-muc-san-pham/lipstick/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoangngo07.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Thu, 06 Oct 2022 12:31:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Sep 2022 06:38:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Fusion Intense</title>
-		<link>https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/</link>
-					<comments>https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/#respond</comments>
+		<title>Lipstick</title>
+		<link></link>
 		
 		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 12:06:32 +0000</pubDate>
-				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=592</guid>
+		<pubDate>Wed, 28 Sep 2022 06:38:04 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
-										<content:encoded><![CDATA[<ul>
-<li>Buildable medium-to-full coverage</li>
-<li>Weightless, airy feel—no caking!</li>
-<li>Long-wearing</li>
-<li>Evens skin tone</li>
-<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+					<description><![CDATA[Hiển thị tất cả 4 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Bath &#038; Body Works 185,00K&#36; Thêm vào giỏ hàng Giảm giá! Cool Cover Rage 198,00K&#36; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 4 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-549 status-publish first instock product_cat-eyes-care product_cat-lipstick product_cat-nails has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://hoangngo07.github.io/mywordpress/san-pham/bath-body-works/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-24.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Bath &#038; Body Works</h2>
+	<span class="price"><span class="woocs_price_code" data-product-id="549"><span class="woocommerce-Price-amount amount"><bdi>185,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
+</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/bath-body-works/?add-to-cart=549" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="549" data-product_sku="MEGA-HR-2-3" aria-label="Thêm &ldquo;Bath &amp; Body Works&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-558 status-publish instock product_cat-cream-blush product_cat-lipstick product_cat-perfume has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://hoangngo07.github.io/mywordpress/san-pham/cool-cover-rage/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-09-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cool Cover Rage</h2>
+	<span class="price"><span class="woocs_price_code" data-product-id="558"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>198,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>188,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></ins></span></span>
+</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/cool-cover-rage/?add-to-cart=558" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="558" data-product_sku="SKU: MEGA-HR-1-10-8-3" aria-label="Thêm &ldquo;Cool Cover Rage&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-562 status-publish last instock product_cat-lipstick product_cat-perfume product_cat-wellness has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://hoangngo07.github.io/mywordpress/san-pham/cosmo-cosmetics/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-08.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cosmo Cosmetics</h2>
+	<span class="price"><span class="woocs_price_code" data-product-id="562"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>166,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>164,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></ins></span></span>
+</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/cosmo-cosmetics/?add-to-cart=562" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="562" data-product_sku="MEGA-HR-1-10-8-4" aria-label="Thêm &ldquo;Cosmo Cosmetics&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-592 status-publish first instock product_cat-cream-blush product_cat-gifts-set product_cat-lipstick has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+	<a href="https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-29-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Fusion Intense</h2>
+	<span class="price"><span class="woocs_price_code" data-product-id="592"><span class="woocommerce-Price-amount amount"><bdi>190,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>235,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
+</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="592" data-product_sku="MEGA-HR-2-1-10" aria-label="Lựa chọn cho &ldquo;Fusion Intense&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
 </ul>
-]]></content:encoded>
+</div>]]></content:encoded>
 					
-					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cosmo Cosmetics</title>
-		<link>https://hoangngo07.github.io/mywordpress/san-pham/cosmo-cosmetics/</link>
-					<comments>https://hoangngo07.github.io/mywordpress/san-pham/cosmo-cosmetics/#respond</comments>
-		
-		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 11:15:18 +0000</pubDate>
-				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=562</guid>
-
-					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
-										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/cosmo-cosmetics/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cool Cover Rage</title>
-		<link>https://hoangngo07.github.io/mywordpress/san-pham/cool-cover-rage/</link>
-					<comments>https://hoangngo07.github.io/mywordpress/san-pham/cool-cover-rage/#respond</comments>
-		
-		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 11:05:34 +0000</pubDate>
-				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=558</guid>
-
-					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
-										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/cool-cover-rage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bath &#038; Body Works</title>
-		<link>https://hoangngo07.github.io/mywordpress/san-pham/bath-body-works/</link>
-					<comments>https://hoangngo07.github.io/mywordpress/san-pham/bath-body-works/#respond</comments>
-		
-		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 10:30:54 +0000</pubDate>
-				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=549</guid>
-
-					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
-										<content:encoded><![CDATA[<ul>
-<li>Buildable medium-to-full coverage</li>
-<li>Weightless, airy feel—no caking!</li>
-<li>Long-wearing</li>
-<li>Evens skin tone</li>
-<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/bath-body-works/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
