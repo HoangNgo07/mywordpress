@@ -12,61 +12,118 @@
 	<atom:link href="https://hoangngo07.github.io/mywordpress/danh-muc-san-pham/gifts-set/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoangngo07.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 28 Sep 2022 06:38:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jan 2023 04:35:14 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Gifts Set</title>
-		<link></link>
+		<title>Layered Luxury</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/layered-luxury/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/layered-luxury/#respond</comments>
 		
 		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 06:38:04 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Thu, 06 Oct 2022 12:16:33 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=601</guid>
 
-					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp CareFul Cos 180,00K&#36; Thêm vào giỏ hàng Giảm giá! Cool Cosmetics 148,00K&#36; 138,00K&#36; Thêm vào [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 5 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-555 status-publish first instock product_cat-gifts-set product_cat-makeup has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-11.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">CareFul Cos</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="555"><span class="woocommerce-Price-amount amount"><bdi>180,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/?add-to-cart=555" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="555" data-product_sku="MEGA-HR-1-10-8-1" aria-label="Thêm &ldquo;CareFul Cos&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-557 status-publish instock product_cat-eyes-care product_cat-gifts-set product_cat-perfume has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/cool-cosmetics/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-10-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Cool Cosmetics</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="557"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>148,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>138,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></ins></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/cool-cosmetics/?add-to-cart=557" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="557" data-product_sku="SKU: MEGA-HR-1-10-8-2" aria-label="Thêm &ldquo;Cool Cosmetics&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-567 status-publish last instock product_cat-beauty product_cat-eyes-care product_cat-gifts-set has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-02.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Creme Lipstick</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="567"><span class="woocommerce-Price-amount amount"><bdi>156,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>225,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="567" data-product_sku="MEGA-HR-2-1-13" aria-label="Lựa chọn cho &ldquo;Creme Lipstick&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-592 status-publish first instock product_cat-cream-blush product_cat-gifts-set product_cat-lipstick has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-29-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Fusion Intense</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="592"><span class="woocommerce-Price-amount amount"><bdi>190,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>235,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="592" data-product_sku="MEGA-HR-2-1-10" aria-label="Lựa chọn cho &ldquo;Fusion Intense&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-601 status-publish instock product_cat-cream-blush product_cat-gifts-set has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/layered-luxury/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-18.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Layered Luxury</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="601"><span class="woocommerce-Price-amount amount"><bdi>245,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/layered-luxury/?add-to-cart=601" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="601" data-product_sku="MEGA-HR-1-10-2" aria-label="Thêm &ldquo;Layered Luxury&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/layered-luxury/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fusion Intense</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 12:06:32 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=592</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Buildable medium-to-full coverage</li>
+ 	<li>Weightless, airy feel—no caking!</li>
+ 	<li>Long-wearing</li>
+ 	<li>Evens skin tone</li>
+ 	<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/fusion-intense/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Creme Lipstick</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:32:29 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=567</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cool Cosmetics</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/cool-cosmetics/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/cool-cosmetics/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:01:44 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=557</guid>
+
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/cool-cosmetics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CareFul Cos</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 10:55:27 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=555</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

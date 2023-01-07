@@ -12,55 +12,100 @@
 	<atom:link href="https://hoangngo07.github.io/mywordpress/danh-muc-san-pham/beauty/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoangngo07.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 28 Sep 2022 06:38:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jan 2023 04:33:23 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Beauty</title>
-		<link></link>
+		<title>Full Coverage</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/full-coverage/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/full-coverage/#respond</comments>
 		
 		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 06:38:04 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Thu, 06 Oct 2022 11:56:35 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=582</guid>
 
-					<description><![CDATA[Hiển thị tất cả 4 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Applied ArtWork 26,00K&#36; Thêm vào giỏ hàng Creme Lipstick 156,00K&#36; &#8211; 225,00K&#36; Lựa chọn các [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 4 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-524 status-publish first instock product_cat-beauty product_cat-sun-care product_cat-wellness has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/applied-artwork/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-30.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Applied ArtWork</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="524"><span class="woocommerce-Price-amount amount"><bdi>26,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/applied-artwork/?add-to-cart=524" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="524" data-product_sku="MEGA-HR-3" aria-label="Thêm &ldquo;Applied ArtWork&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-567 status-publish instock product_cat-beauty product_cat-eyes-care product_cat-gifts-set has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-02.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Creme Lipstick</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="567"><span class="woocommerce-Price-amount amount"><bdi>156,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>225,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="567" data-product_sku="MEGA-HR-2-1-13" aria-label="Lựa chọn cho &ldquo;Creme Lipstick&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-577 status-publish last instock product_cat-beauty product_cat-eyes-care product_cat-sun-care has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/fresh-face/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-07.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Fresh Face</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="577"><span class="woocommerce-Price-amount amount"><bdi>135,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>180,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/fresh-face/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="577" data-product_sku="MEGA-HR-2-1-12" aria-label="Lựa chọn cho &ldquo;Fresh Face&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-582 status-publish first instock product_cat-beauty product_cat-eyes-care product_cat-skin-care has-post-thumbnail taxable shipping-taxable product-type-variable">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/full-coverage/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-26.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Full Coverage</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="582"><span class="woocommerce-Price-amount amount"><bdi>165,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>195,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/full-coverage/" data-quantity="1" class="button product_type_variable" data-product_id="582" data-product_sku="MEGA-HR-2-1-11" aria-label="Lựa chọn cho &ldquo;Full Coverage&rdquo;" rel="nofollow">Đọc tiếp</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[<ul>
+ 	<li>Buildable medium-to-full coverage</li>
+ 	<li>Weightless, airy feel—no caking!</li>
+ 	<li>Long-wearing</li>
+ 	<li>Evens skin tone</li>
+ 	<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/full-coverage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fresh Face</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/fresh-face/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/fresh-face/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:43:08 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=577</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Buildable medium-to-full coverage</li>
+ 	<li>Weightless, airy feel—no caking!</li>
+ 	<li>Long-wearing</li>
+ 	<li>Evens skin tone</li>
+ 	<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/fresh-face/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Creme Lipstick</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:32:29 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=567</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/creme-lipstick/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Applied ArtWork</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/applied-artwork/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/applied-artwork/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 08:00:48 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=524</guid>
+
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/applied-artwork/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

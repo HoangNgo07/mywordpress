@@ -12,59 +12,118 @@
 	<atom:link href="https://hoangngo07.github.io/mywordpress/danh-muc-san-pham/makeup/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoangngo07.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 28 Sep 2022 06:38:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jan 2023 04:26:20 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Makeup</title>
-		<link></link>
+		<title>Happy Highlights</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/happy-highlights/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/happy-highlights/#respond</comments>
 		
 		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 06:38:04 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Thu, 06 Oct 2022 12:09:51 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=596</guid>
 
-					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Butter Gloss – Creme Brulee 240,00&#36; Thêm vào giỏ hàng Butter Gloss – Creme Brulee [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 5 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-501 status-publish first instock product_cat-makeup product_cat-skin-care has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-19.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Butter Gloss – Creme Brulee</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="501"><span class="woocommerce-Price-amount amount"><bdi>240,00<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee/?add-to-cart=501" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="501" data-product_sku="MEGA-HR-1-2" aria-label="Thêm &ldquo;Butter Gloss – Creme Brulee&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-554 status-publish instock product_cat-makeup product_cat-skin-care has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-28.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Butter Gloss – Creme Brulee</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="554"><span class="woocommerce-Price-amount amount"><bdi>24,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee-2/?add-to-cart=554" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="554" data-product_sku="" aria-label="Thêm &ldquo;Butter Gloss – Creme Brulee&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-555 status-publish last instock product_cat-gifts-set product_cat-makeup has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-11.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">CareFul Cos</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="555"><span class="woocommerce-Price-amount amount"><bdi>180,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/?add-to-cart=555" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="555" data-product_sku="MEGA-HR-1-10-8-1" aria-label="Thêm &ldquo;CareFul Cos&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-559 status-publish first instock product_cat-makeup product_cat-wellness has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/coll-coverage/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-26.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Coll Coverage</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="559"><span class="woocommerce-Price-amount amount"><bdi>138,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/coll-coverage/?add-to-cart=559" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="559" data-product_sku="MEGA-HR-1-4" aria-label="Thêm &ldquo;Coll Coverage&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-596 status-publish instock product_cat-cream-blush product_cat-makeup has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/happy-highlights/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-20.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Happy Highlights</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="596"><span class="woocommerce-Price-amount amount"><bdi>401,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/happy-highlights/?add-to-cart=596" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="596" data-product_sku="MEGA-HR-1-10" aria-label="Thêm &ldquo;Happy Highlights&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/happy-highlights/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Coll Coverage</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/coll-coverage/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/coll-coverage/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:10:26 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=559</guid>
+
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/coll-coverage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CareFul Cos</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 10:55:27 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=555</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/careful-cos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Butter Gloss – Creme Brulee</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee-2/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee-2/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 10:51:50 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=554</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Butter Gloss – Creme Brulee</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 09:44:36 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=501</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/butter-gloss-creme-brulee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

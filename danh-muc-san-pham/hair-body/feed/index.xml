@@ -12,67 +12,136 @@
 	<atom:link href="https://hoangngo07.github.io/mywordpress/danh-muc-san-pham/hair-body/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoangngo07.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 28 Sep 2022 06:38:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jan 2023 04:26:10 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Hair &#038; Body</title>
-		<link></link>
+		<title>Supple Symmetry</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/supple-symmetry/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/supple-symmetry/#respond</comments>
 		
 		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 06:38:04 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Thu, 06 Oct 2022 12:28:22 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=606</guid>
 
-					<description><![CDATA[Hiển thị tất cả 6 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Giảm giá! Applied Assurance 178,00K&#36; 158,00K&#36; Thêm vào giỏ hàng Aveeno Daily Moisturizing 300,00K&#36; Thêm [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 6 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-545 status-publish first instock product_cat-hair-body has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/applied-assurance/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-12-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Applied Assurance</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="545"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>178,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>158,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></ins></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/applied-assurance/?add-to-cart=545" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="545" data-product_sku="SKU: MEGA-HR-1-10-8" aria-label="Thêm &ldquo;Applied Assurance&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-546 status-publish instock product_cat-hair-body has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/aveeno-daily-moisturizing/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-30-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Aveeno Daily Moisturizing</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="546"><span class="woocommerce-Price-amount amount"><bdi>300,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/aveeno-daily-moisturizing/?add-to-cart=546" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="546" data-product_sku="MEGA-HR-1-1" aria-label="Thêm &ldquo;Aveeno Daily Moisturizing&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-494 status-publish last instock product_cat-chua-phan-loai product_cat-hair-body has-post-thumbnail taxable shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-31.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Body Lava Luminizer</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="494"><span class="woocommerce-Price-amount amount"><bdi>156,00<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="494" data-product_sku="MEGA-HR-2" aria-label="Lựa chọn cho &ldquo;Body Lava Luminizer&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-550 status-publish first instock product_cat-hair-body product_cat-wellness has-post-thumbnail taxable shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-32.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Body Lava luminizer</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="550"><span class="woocommerce-Price-amount amount"><bdi>16,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>19,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer-2/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="550" data-product_sku="" aria-label="Lựa chọn cho &ldquo;Body Lava luminizer&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-599 status-publish instock product_cat-cream-blush product_cat-hair-body has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/instanatural-rose-water-facical/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-19.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">InstaNatural Rose Water Facical</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="599"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>210,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>190,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></ins></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/instanatural-rose-water-facical/?add-to-cart=599" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="599" data-product_sku="MEGA-HR-1-10-1" aria-label="Thêm &ldquo;InstaNatural Rose Water Facical&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-606 status-publish last instock product_cat-hair-body product_cat-nails has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://hoangngo07.github.io/mywordpress/san-pham/supple-symmetry/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hoangngo07.github.io/mywordpress/wp-content/uploads/2022/10/product-13.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Supple Symmetry</h2>
-	<span class="price"><span class="woocs_price_code" data-product-id="606"><span class="woocommerce-Price-amount amount"><bdi>168,00K<span class="woocommerce-Price-currencySymbol">&#36;</span></bdi></span></span></span>
-</a><a href="https://hoangngo07.github.io/mywordpress/san-pham/supple-symmetry/?add-to-cart=606" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="606" data-product_sku="MEGA-HR-3-1-1" aria-label="Thêm &ldquo;Supple Symmetry&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/supple-symmetry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>InstaNatural Rose Water Facical</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/instanatural-rose-water-facical/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/instanatural-rose-water-facical/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 12:13:02 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=599</guid>
+
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/instanatural-rose-water-facical/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Body Lava luminizer</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer-2/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer-2/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 10:46:21 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=550</guid>
+
+					<description><![CDATA[Buildable medium-to-full coverage Weightless, airy feel—no caking! Long-wearing Evens skin tone Available in 07 shades (all exclusive to Makeaholic!)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aveeno Daily Moisturizing</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/aveeno-daily-moisturizing/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/aveeno-daily-moisturizing/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 10:23:34 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=546</guid>
+
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/aveeno-daily-moisturizing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Applied Assurance</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/applied-assurance/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/applied-assurance/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 08:05:17 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=545</guid>
+
+					<description><![CDATA[Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.]]></description>
+										<content:encoded><![CDATA[<p>Not only is the toy bar shaped with funny animals on top, but it also has funny sounds that help children feel excited to help them learn to reflect, grasp, look at objects, very Good for brain development Made of high-quality fabric, with good sweat absorbency, helps prevent back heat, sweat when sleeping.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/applied-assurance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Body Lava Luminizer</title>
+		<link>https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer/</link>
+					<comments>https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer/#respond</comments>
+		
+		<dc:creator><![CDATA[ngoduchoang]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 07:58:26 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangngo07.github.io/mywordpress/?post_type=product&#038;p=494</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Buildable medium-to-full coverage</li>
+ 	<li>Weightless, airy feel—no caking!</li>
+ 	<li>Long-wearing</li>
+ 	<li>Evens skin tone</li>
+ 	<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Buildable medium-to-full coverage</li>
+<li>Weightless, airy feel—no caking!</li>
+<li>Long-wearing</li>
+<li>Evens skin tone</li>
+<li>Available in 07 shades (all exclusive to Makeaholic!)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangngo07.github.io/mywordpress/san-pham/body-lava-luminizer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
